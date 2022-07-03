@@ -90,6 +90,8 @@ export default {
 		makeGlobal: "Gør global",
 		comments: "Kommentarer",
 		channels: "Kanaler",
+		common_names: "Other names for this emote",
+		usage_stats: "Emote Statistics",
 		list: {
 			searching: "Søger",
 			emote_count: "{0} emotes",
